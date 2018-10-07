@@ -1,0 +1,31 @@
+{
+  "name": "nodeapipractice",
+  "version": "1.0.0",
+  "description": "RESTful nodeapipractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armastus/NodeApiPractice.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Tutorial"
+  ],
+  "author": "David Bustillos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armastus/NodeApiPractice/issues"
+  },
+  "homepage": "https://github.com/Armastus/NodeApiPractice#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.3.1"
+  }
+}
